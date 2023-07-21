@@ -15,6 +15,7 @@ function SpicyFoodList() {
     </li>
   ));
 
+  
   return (
     <div>
       <button onClick={handleAddFood}>Add New Food</button>
